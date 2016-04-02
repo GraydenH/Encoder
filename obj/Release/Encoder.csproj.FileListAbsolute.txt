@@ -1,9 +1,0 @@
-C:\Users\Grayden\Documents\Visual Studio 2015\Projects\Encoder2\Encoder\Encoder\Encoder\bin\Release\Encoder.exe.config
-C:\Users\Grayden\Documents\Visual Studio 2015\Projects\Encoder2\Encoder\Encoder\Encoder\bin\Release\Encoder.exe
-C:\Users\Grayden\Documents\Visual Studio 2015\Projects\Encoder2\Encoder\Encoder\Encoder\bin\Release\Encoder.pdb
-C:\Users\Grayden\Documents\Visual Studio 2015\Projects\Encoder2\Encoder\Encoder\Encoder\obj\Release\Encoder.csprojResolveAssemblyReference.cache
-C:\Users\Grayden\Documents\Visual Studio 2015\Projects\Encoder2\Encoder\Encoder\Encoder\obj\Release\Encoder.Form1.resources
-C:\Users\Grayden\Documents\Visual Studio 2015\Projects\Encoder2\Encoder\Encoder\Encoder\obj\Release\Encoder.Properties.Resources.resources
-C:\Users\Grayden\Documents\Visual Studio 2015\Projects\Encoder2\Encoder\Encoder\Encoder\obj\Release\Encoder.csproj.GenerateResource.Cache
-C:\Users\Grayden\Documents\Visual Studio 2015\Projects\Encoder2\Encoder\Encoder\Encoder\obj\Release\Encoder.exe
-C:\Users\Grayden\Documents\Visual Studio 2015\Projects\Encoder2\Encoder\Encoder\Encoder\obj\Release\Encoder.pdb
