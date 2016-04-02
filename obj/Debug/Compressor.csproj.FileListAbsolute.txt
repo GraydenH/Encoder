@@ -1,0 +1,9 @@
+c:\users\grayden\documents\visual studio 2015\Projects\Encoder\Encoder\bin\Debug\Encoder.exe.config
+c:\users\grayden\documents\visual studio 2015\Projects\Encoder\Encoder\bin\Debug\Encoder.exe
+c:\users\grayden\documents\visual studio 2015\Projects\Encoder\Encoder\bin\Debug\Encoder.pdb
+c:\users\grayden\documents\visual studio 2015\Projects\Encoder\Encoder\obj\Debug\Compressor.csprojResolveAssemblyReference.cache
+c:\users\grayden\documents\visual studio 2015\Projects\Encoder\Encoder\obj\Debug\Encoder.Properties.Resources.resources
+c:\users\grayden\documents\visual studio 2015\Projects\Encoder\Encoder\obj\Debug\Compressor.csproj.GenerateResource.Cache
+c:\users\grayden\documents\visual studio 2015\Projects\Encoder\Encoder\obj\Debug\Encoder.exe
+c:\users\grayden\documents\visual studio 2015\Projects\Encoder\Encoder\obj\Debug\Encoder.pdb
+c:\users\grayden\documents\visual studio 2015\Projects\Encoder\Encoder\obj\Debug\Encoder.EncoderForm.resources
